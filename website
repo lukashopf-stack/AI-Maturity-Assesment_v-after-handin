@@ -1,39 +1,3 @@
-ChatGPT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d8d283f7-ca0c-4e76-bbf9-58b53fccb02d.png
-
-Pasted text.txt
-Document
-
-Pasted text (2).txt
-Document
-
-Here is the code to my current website. I want you to make two precise changes, nothing else. First, I want you to delete the German version in the website, so delete the option that the website can be in German, so it's only English text displayed. Furthermore, I want you to update the questions and the descriptions of the questions in the text of the website. Keep everything else exactly the same. So ensure that every function and everything else of the website stays the same, only the question wording and the description for the questions has to be updated in English. Furthermore include a new user name callled Guest1 and code Copenhagen1!
-The new version for the questions and the descriptions and the old codee are attached
-
-Thought for 2m 45s
-Done — I updated the website code as requested.
-
-Download the updated HTML file
-
-I kept the original login and added the new login:
-
-Username: Guest1
-Code: Copenhagen1!
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -1096,4 +1060,3 @@ initAuth();
 </script>
 </body>
 </html>
-
